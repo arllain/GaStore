@@ -1,0 +1,12 @@
+{
+  "name": "GaStore",
+  "displayName": "GaStore",
+  "expo": {
+    "name": "GaStore",
+    "slug": "GaStore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
