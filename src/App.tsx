@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Welcome to GaStore !</Text>
-      <StatusBar style='auto' />
+      <StatusBar style="auto" />
     </View>
   );
 }
